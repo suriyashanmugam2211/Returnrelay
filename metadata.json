@@ -1,0 +1,6 @@
+{
+  "name": "ReturnRelay",
+  "description": "AI-Powered Conversational Product Return and Warranty Resolution Agent simulating an Alexa+ agentic customer experience with multi-step tool execution, explainable policies, and explicit user approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
